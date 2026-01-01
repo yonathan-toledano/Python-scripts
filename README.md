@@ -1,4 +1,4 @@
-Python-Scripts
+# Python-Scripts
 
 This repository contains basic Python scripts created as part of my assignments for the Intro to Python course at The Hebrew University.
 
